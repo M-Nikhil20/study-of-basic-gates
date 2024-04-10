@@ -1,12 +1,12 @@
-# EX 01 :                            STUDY OF BASIC GATES
+### study-of-basic-gates
 
 **AIM:** 
 
- To study and verify the truth table of logic gates in Quartus II using Verilog programming.
+To study and verify the truth table of logic gates in Quartus II using Verilog programming.
 
 **Equipments Required:**
 
- Software – Quartus prime 
+Software – Quartus prime 
 
 **Theory**
 
@@ -63,27 +63,147 @@ Y= A⊕B
 
 
 **PROGRAM**
-![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/118707852/210e1916-526e-46a3-b126-ba0e41b970f0)
 
-
-Program for logic gates and verify its truth table in quartus using Verilog programming
-
- Developed by:M Nikhil
+ Developed by:ABISHAI KC RegisterNumber: 212223240002
  
- RegisterNumber:212222230095 
+ ***And Gate***
  
-**Logic symbol & Truthtable:**
+ ![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/139335314/20ea9eaa-bd4f-4377-9983-39448af90e87)
+ 
+**Logic symbol & Truthtable**
 
-![de ex1 b](https://github.com/M-Nikhil20/study-of-basic-gates/assets/118707852/fccf6afd-fd3d-4273-a043-23f79c95a968)
+![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/139335314/25a88e3d-2ffd-47ca-bb39-af224af9060e)
+
 
 **RTL realization Output:** 
 
-![de ex1 c](https://github.com/M-Nikhil20/study-of-basic-gates/assets/118707852/deeab34e-eaf0-4b7e-b949-b0db170f4bf0)
+![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/139335314/a1b4406c-c4b6-4c0b-8b7a-b6126a97591a)
 
-**RTL:**
+**RTL**
 
-![de ex1 d](https://github.com/M-Nikhil20/study-of-basic-gates/assets/118707852/46c745fe-40fb-4ef4-a117-d3541a7e6d7a)
+![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/139335314/44af20d0-8076-4bf0-974c-9623f01091a2)
+
+***Or Gate***
+
+![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/139335314/4ba26ab8-960d-4524-8475-26db2716dc35)
+
+**Logic symbol & Truthtable**
+
+![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/139335314/aa98ba40-3ca3-4baf-bbbd-e3a7398159a9)
+
+
+**RTL realization Output:** 
+
+![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/139335314/cfc2c12d-b798-4f7d-83ab-4af9150ff5da)
+
+
+**RTL**
+
+![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/139335314/9c8c4ca9-9796-4be0-925f-06c6548a63a1)
+
+***Not Gate***
+
+![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/139335314/160398dc-2ecc-4fd8-965e-e938ee61bb1e)
+
+
+**Logic symbol & Truthtable**
+
+![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/139335314/c2b9713a-020a-4328-915e-0dc9d50eeee3)
+
+
+**RTL realization Output:** 
+
+![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/139335314/16bc1aba-38b3-473d-b375-a4bf6e05a71a)
+
+
+
+**RTL**
+
+![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/139335314/2cbb161e-a3b7-4d55-b694-0703ba0777a5)
+
+
+***NAND Gate***
+
+![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/139335314/147db95f-0490-42f3-9b07-9daed47e7ce5)
+
+
+**Logic symbol & Truthtable**
+
+![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/139335314/df14dfba-370d-42e4-a0c9-62d97774d60a)
+
+
+
+**RTL realization Output:** 
+
+![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/139335314/48572c81-8ab5-4138-9cf9-08e1949038a1)
+
+
+
+**RTL**
+
+![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/139335314/7e0b6176-6b79-4d61-ad77-02979eb3b46e)
+
+***NOR GATE***
+
+![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/139335314/5d351dae-2a91-4898-9d91-248e62063143)
+
+
+**Logic symbol & Truthtable**
+
+![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/139335314/0d6bbca1-d904-49bd-b3ab-07cc05956d9c)
+
+
+**RTL realization Output:** 
+
+![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/139335314/ca42f1bc-dfd6-4199-9849-dbc0929c56d4)
+
+
+
+**RTL**
+
+![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/139335314/0d4eb4ae-016d-468c-b52d-597e8d914291)
+
+***EX-OR GATE***
+
+![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/139335314/ad9ac5d6-6c87-4e30-baa2-c9fefdddf11e)
+
+
+**Logic symbol & Truthtable**
+
+![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/139335314/f2d4da48-9d25-42bd-a011-a23d3be4f396)
+
+
+**RTL realization Output:** 
+
+![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/139335314/1029a4ad-13d2-4d61-992a-ae7e82d10329)
+
+
+**RTL**
+
+![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/139335314/16d97f70-f0e6-4408-9bee-02cd821e2339)
+
+***EX-NOR GATE***
+
+![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/139335314/91a00505-14db-4e4e-87ee-7ac8c3f828da)
+
+
+**Logic symbol & Truthtable**
+
+![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/139335314/5da6033c-7745-43fb-95a2-1e53b678cac5)
+
+
+
+**RTL realization Output:** 
+
+![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/139335314/c8cf8cad-414e-4f91-9172-7f3168bced2c)
+
+**RTL**
+
+![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/139335314/955cc193-153c-4e79-a530-7cb3a0fadccb)
+
+
 
 **Result:**
- Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
+Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
+
 
