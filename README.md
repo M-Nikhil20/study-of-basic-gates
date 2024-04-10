@@ -68,141 +68,170 @@ Y= A⊕B
  RegisterNumber: 212222230095
  
  ***And Gate***
+ 
  ![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/118707852/381db9b2-ff2c-4ac0-a5d5-e922eea7dc83)
 
 
 **Logic symbol & Truthtable**
+
 ![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/118707852/7478bf39-8d7a-4ec6-940f-fb5ca8661027)
 
 
 **RTL realization Output:** 
+
 ![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/118707852/c2c980de-b43d-4b35-9cde-10c68703e126)
 
 
 **RTL**
+
 ![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/118707852/742bf349-e5f0-45fd-97c6-9ab7939a6d69)
 
 
 ***Or Gate***
+
 ![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/118707852/c4bfcf36-a7a8-415f-8e6b-7ef9da2b127f)
 
 
 **Logic symbol & Truthtable**
+
 ![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/118707852/f576f2c6-0bb9-46d7-9272-09b015a92d98)
 
 
 
 **RTL realization Output:** 
+
 ![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/118707852/75bf4af4-676b-483f-9a83-550a6a0c6bd1)
 
 
 
 **RTL**
+
 ![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/118707852/f63d8458-f9bb-4710-a636-85fec2b1a7c6)
 
 
 ***Not Gate***
+
 ![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/118707852/68b1f120-941c-45fc-bfc8-b2bf7487b414)
 
 
 
 **Logic symbol & Truthtable**
+
 ![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/118707852/3b5aba8a-5c2f-441e-b5a0-86a895f17dc8)
 
 
 
 **RTL realization Output:** 
+
 ![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/118707852/b6e3aa72-859f-42a4-a305-4989d527b7d7)
 
 
 
-
 **RTL**
+
 ![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/118707852/bba89a5a-5361-4e22-ad06-b91e7fce6761)
 
 
 
-***NAND Gate***
+**NAND Gate**
+
 ![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/118707852/ec4405ea-ee6d-432b-a1e1-74227e0b7b0d)
 
 
 
 **Logic symbol & Truthtable**
+
 ![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/118707852/c5ac3baf-30c8-45e8-bc3b-39fcd5497bee)
 
 
 
-
 **RTL realization Output:** 
+
 ![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/118707852/537052ac-4538-47f0-895d-220f93fe8902)
 
 
 
-
 **RTL**
+
 ![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/118707852/3ad8ffe8-3db7-41e4-ba6f-180fa963eba7)
 
 
 ***NOR GATE***
+
 ![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/118707852/117050a2-d459-4faf-b67f-700d17f47d3e)
 
 
 
 **Logic symbol & Truthtable**
+
 ![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/118707852/fbd22757-8d77-4ea3-bf5e-45a9d17bce2e)
 
 
 
 **RTL realization Output:** 
+
 ![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/118707852/fb516e4e-9c09-4e3d-a47f-77fde9ef837f)
 
 
 
-
 **RTL**
+
 ![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/118707852/226e1e80-c9e7-419f-b953-403813ea28a9)
 
 
 ***EX-OR GATE***
+
 ![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/118707852/5a08544a-99ec-44e6-a05a-90545620cee5)
 
 
 
 **Logic symbol & Truthtable**
+
 ![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/118707852/2f7afce2-727e-4da4-832a-90d81670d612)
 
 
 
 **RTL realization Output:** 
+
 ![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/118707852/9b00c9ef-de32-4a58-968c-309597489511)
 
 
 
 **RTL**
+
 ![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/118707852/aafde24c-e820-4e51-bbdc-35b3ff678fef)
 
 
+
 ***EX-NOR GATE***
+
 ![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/118707852/d8c4a39a-6fe3-4ba1-9ffc-568d6c45b211)
 
 
 
 **Logic symbol & Truthtable**
+
 ![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/118707852/a8229ad2-675e-44fc-b01a-e4bfa7f92a82)
 
 
 
 
 **RTL realization Output:** 
+
 ![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/118707852/9c2b04a6-0d4d-4edb-8a30-67be459a2ee6)
 
 
+
 **RTL**
+
 ![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/118707852/fa71c8e9-77dd-431c-802f-3d0ff4c28d74)
 
 
+
 **RTL realization Output:**
+
 ![image](https://github.com/M-Nikhil20/study-of-basic-gates/assets/118707852/6bd6a9ca-3ab7-4318-a809-08091a15291b)
+
 
 
 **Result:**
