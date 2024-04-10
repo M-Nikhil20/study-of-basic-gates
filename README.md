@@ -1,12 +1,12 @@
-# EX 01 :                            STUDY OF BASIC GATES
+                                   # EX 01 :                            STUDY OF BASIC GATES
 
 **AIM:** 
 
-To study and verify the truth table of logic gates in Quartus II using Verilog programming.
+ To study and verify the truth table of logic gates in Quartus II using Verilog programming.
 
 **Equipments Required:**
 
-Software – Quartus prime 
+ Software – Quartus prime 
 
 **Theory**
 
